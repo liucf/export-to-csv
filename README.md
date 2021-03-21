@@ -6,7 +6,7 @@ Exports given view (be it Laravel Lens or Resource) to a CSV file
 Installation
 ------------
 
-    composer require eithed/export-to-csv
+    composer require liucf/export-to-csv
 
 Usage
 -----
